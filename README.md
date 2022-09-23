@@ -1,4 +1,4 @@
-# Text-A-Lot
+# Real-Time Group Chat
 
 > A Realtime Group Chat Application
 
